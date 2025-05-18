@@ -1,5 +1,7 @@
 import { AboutSection } from "../components/AboutSection";
 import { ContactSection } from "../components/ContactSection";
+import FloatingScrollTopButton from "../components/FloatingScrollTopButton";
+import { Footer } from "../components/Footer";
 import { HeroSection } from "../components/HeroSection";
 import { NavBar } from "../components/NavBar";
 import { ProjectSection } from "../components/ProjectSection";
@@ -31,6 +33,9 @@ export const Home = () => {
         </main>
 
         {/* Footer */}
+        <Footer />
+
+        <FloatingScrollTopButton />
 
 
     </div>
