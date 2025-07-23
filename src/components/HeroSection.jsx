@@ -16,14 +16,9 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-4">
-                        I am a passionate and skilled software engineer dedicated to leveraging technology to create
-                        innovative solutions and drive maximum productivity. With expertise spanning software development,
-                        system architecture, and the latest tech trends, I thrive on solving complex problems and
-                        optimizing performance. My commitment to excellence ensures that every project I undertake
-                        delivers outstanding results, combining efficiency, innovation, and precision.
-                        Whether it's coding, AI, cloud computing, or emerging technologies,
-                        I bring a forward-thinking mindset and relentless drive to push
-                        boundaries in the digital world.
+                    I build efficient, forward-thinking tech solutions that solve real-world challenges. With hands-on expertise in system architecture, 
+                    coding, AI, and cloud technologies, I optimize performance and push the boundaries of innovation. Every project is crafted for 
+                    impact—combining precision, productivity, and cutting-edge strategy.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
