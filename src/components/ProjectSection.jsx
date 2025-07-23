@@ -30,6 +30,15 @@ const projects = [
         githubUrl: ""
     },
     {
+        id: 1,
+        title: "Adventure Company Landing Page",
+        description: "A seamless landing page for an Adventure platform company",
+        image: "/projects/web6.png",
+        tag: ["React.js", "Tailwind.css"],
+        demoUrl: "https://xpeditionhub.vercel.app/",
+        githubUrl: ""
+    },
+    {
         id: 3,
         title: "Ecommerce Landing Page",
         description: "A seamless landing page for an ecommerce online app",
