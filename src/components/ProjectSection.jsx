@@ -12,6 +12,24 @@ const projects = [
         githubUrl: ""
     },
     {
+        id: 1,
+        title: "Digital Tech Landing Page",
+        description: "A seamless landing page for a digital solutions online firm",
+        image: "/projects/web4.png",
+        tag: ["Next.js", "Tailwind"],
+        demoUrl: "https://senovaratech.vercel.app/",
+        githubUrl: ""
+    },
+    {
+        id: 1,
+        title: "Community Program Landing Page",
+        description: "A seamless landing page for a community online organization",
+        image: "/projects/web5.png",
+        tag: ["Next.js", "ESLint"],
+        demoUrl: "https://lumos-nestor-kariukis-projects.vercel.app/",
+        githubUrl: ""
+    },
+    {
         id: 3,
         title: "Ecommerce Landing Page",
         description: "A seamless landing page for an ecommerce online app",
